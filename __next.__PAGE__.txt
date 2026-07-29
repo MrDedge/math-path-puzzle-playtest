@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[43452,["/math-path-puzzle-playtest/_next/static/chunks/0w2~5~-hv43qe.js","/math-path-puzzle-playtest/_next/static/chunks/0s-fc5b6pmgug.js"],"MathPathGame"]
+3:I[76152,["/math-path-puzzle-playtest/_next/static/chunks/0w2~5~-hv43qe.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{}],[["$","script","script-0",{"src":"/math-path-puzzle-playtest/_next/static/chunks/0s-fc5b6pmgug.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"7fQb7JMiOKHrqJCPuaeig"}
+5:null
