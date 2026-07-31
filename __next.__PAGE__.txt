@@ -2,5 +2,5 @@
 2:I[43452,["/math-path-puzzle-playtest/_next/static/chunks/0w2~5~-hv43qe.js","/math-path-puzzle-playtest/_next/static/chunks/14lzn-z9hq~.s.js"],"MathPathGame"]
 3:I[76152,["/math-path-puzzle-playtest/_next/static/chunks/0w2~5~-hv43qe.js"],"OutletBoundary"]
 4:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{}],[["$","script","script-0",{"src":"/math-path-puzzle-playtest/_next/static/chunks/14lzn-z9hq~.s.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Eby4-biu8s3timjCP-87E"}
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{}],[["$","script","script-0",{"src":"/math-path-puzzle-playtest/_next/static/chunks/14lzn-z9hq~.s.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"2j6b-B78zxkV9tplTtbvr"}
 5:null
